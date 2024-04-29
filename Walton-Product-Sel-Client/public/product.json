@@ -1,0 +1,38 @@
+[
+    {
+        "img": "https://i.ibb.co/mGKNr6y/0-removebg-preview.png",
+        "name": "Walton Gash Stop",
+        "title": "Walton Gash Stop offers reliable protection for your home by quickly sealing leaks in gas pipelines, ensuring safety and peace of mind. Its innovative formula forms a strong bond, effectively preventing gas leaks and potential hazards.",
+        "price": "$ 122"
+    },
+    {
+        "img": "https://i.ibb.co/G9qqcqM/1710703742-8-removebg-preview.png",
+        "name": "Walton  Air Condition",
+        "title": "Efficiently cools your space with adjustable settings, ensuring comfort during hot days and nights. Sleek design seamlessly integrates into any room decor while providing powerful cooling performance.",
+        "price": "$ 245"
+    },
+    {
+        "img": "https://i.ibb.co/s3wqt11/images-removebg-preview-1.png",
+        "name": "Walton Refrigerator",
+        "title": "The Walton Refrigerator combines sleek design with advanced cooling technology, preserving your food with efficiency and style. With spacious compartments and adjustable settings, it offers convenience and freshness for all your storage needs.",
+        "price": "$ 289"
+    },
+    {
+        "img": "https://i.ibb.co/FsZ83F8/W32-D120-H11-G1-removebg-preview.png",
+        "name": "Walton LED TV",
+        "title": "The Walton LED TV delivers stunning visuals and immersive entertainment with vibrant colors and crisp resolution. Its sleek design and advanced features make it a perfect addition to any home theater setup.",
+        "price": "$ 190"
+    },
+    {
+        "img": "https://i.ibb.co/wc5BrxM/Lu6mr3-Yyt-MOZ6rrmjg3lz-Sj-I8a0a-Lkqzg-Jg0-NABf-removebg-preview.png",
+        "name": "Walton Fan",
+        "title": "The Walton Fan provides efficient cooling with adjustable speed settings, ensuring comfort in any environment. Its quiet operation and sleek design make it a perfect complement to any room decor.",
+        "price": "$ 250"
+    },
+    {
+        "img": "https://i.ibb.co/p2C9qWR/780-x-470-780x470-removebg-preview.png",
+        "name": "Walton Laptop",
+        "title": "The Walton Laptop combines powerful performance with sleek design, offering reliability and versatility for all your computing needs. With advanced features and a portable build, it's your ideal companion for work or entertainment on the go.",
+        "price": "$ 189"
+    }
+]
